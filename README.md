@@ -4,9 +4,9 @@ Download and play the latest Bannerfall development build.
 
 ## Download
 
-**[Download Bannerfall.apk](https://github.com/kawzie/bannerfall-builds/releases/download/v0.1.0-alpha.1/Bannerfall.apk)**
+**[Download Bannerfall.apk](https://github.com/kawzie/bannerfall-builds/releases/download/v0.1.0-alpha.2/Bannerfall.apk)**
 
-[Release notes and checksums](https://github.com/kawzie/bannerfall-builds/releases/tag/v0.1.0-alpha.1) · [All builds](https://github.com/kawzie/bannerfall-builds/releases)
+[Release notes and checksums](https://github.com/kawzie/bannerfall-builds/releases/tag/v0.1.0-alpha.2) · [All builds](https://github.com/kawzie/bannerfall-builds/releases)
 
 The APK download is approximately **1.1 GB**. This is an early Android development
 build for testing. This repository distributes builds and release notes.
@@ -32,12 +32,20 @@ Online multiplayer requires an internet connection and the development server
 to be available. This build includes banner customization, the medieval menu
 and battlefield artwork, and server-controlled multiplayer matches.
 
+## Square aura coverage
+
+Level 1 affects the eight surrounding tiles, including diagonals. Upgrades expand
+the coverage to a 5×5 square, then a 7×7 square. Selecting the tower shows its
+current tile-aligned square outline.
+
+Both players need this updated build for online matchmaking.
+
 ## Build information
 
 | Item | Value |
 |---|---|
-| Release | `v0.1.0-alpha.1` |
-| Build date | November 7, 2026 (Pacific time) |
+| Release | `v0.1.0-alpha.2` |
+| Build date | November 8, 2026 (Pacific time) |
 | Platform | Android ARM64 |
 | Download | `Bannerfall.apk` |
 | Integrity file | `SHA256SUMS.txt` in the release assets |
